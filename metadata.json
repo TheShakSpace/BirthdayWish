@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Surprise Wish",
+  "description": "An interactive romantic birthday surprise experience with a 3D gift box, secret code lock screen, stage curtains, birthday counter cake, polaroid memory stack, balloon pop wishes, sliding photo puzzle, holographic scratch card, and love letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
